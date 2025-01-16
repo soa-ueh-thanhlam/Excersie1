@@ -100,4 +100,4 @@ Dự án này được phát hành dưới giấy phép [MIT License](LICENSE).
 
 ## 📧 Thông tin liên hệ
 - **Tác giả:** [soa-ueh-thanhlam](https://github.com/soa-ueh-thanhlam)
-- **Email:** lamdoan1122334455@example.com
+- **Email:** lamdoan1122334455@gmail.com
