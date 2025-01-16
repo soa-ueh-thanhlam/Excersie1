@@ -16,7 +16,6 @@ TemperatureWS/
 │   ├── Form1.cs               # Form chính của ứng dụng WinForm
 │   ├── Program.cs             # Điểm bắt đầu của ứng dụng
 │   ├── App.config             # Tệp cấu hình ứng dụng
-├── Solution.sln               # Tệp giải pháp Visual Studio
 ```
 
 ## ⚙️ Yêu cầu hệ thống
@@ -94,7 +93,7 @@ Dịch vụ web cung cấp hai phương thức chính:
 
 ## 📷 Giao diện minh họa
 ### Giao diện chính của ứng dụng
-![Temperature Client UI](https://via.placeholder.com/600x400?text=Temperature+Client+UI)
+![image](https://github.com/user-attachments/assets/4624c319-4e03-45fe-91be-bb90e18f1846)
 
 ## 📜 License
 Dự án này được phát hành dưới giấy phép [MIT License](LICENSE).
