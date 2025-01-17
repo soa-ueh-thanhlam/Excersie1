@@ -91,9 +91,16 @@ Dịch vụ web cung cấp hai phương thức chính:
 - Ứng dụng kiểm tra đầu vào bằng cách sử dụng `double.TryParse` để đảm bảo định dạng chính xác.
 - Thông báo lỗi được hiển thị trong trường hợp nhập sai hoặc có sự cố kết nối với dịch vụ web.
 
-## 📷 Giao diện minh họa
-### Giao diện chính của ứng dụng
-![image](https://github.com/user-attachments/assets/4624c319-4e03-45fe-91be-bb90e18f1846)
+## ✅ Kết quả đạt được
+
+- **Hoàn thiện ứng dụng**: Khả năng chuyển đổi nhiệt độ chính xác giữa Fahrenheit và Celsius.
+
+- **Dịch vụ web SOAP**: Triển khai thành công, tương thích với nhiều nền tảng.
+
+- **Giao diện người dùng**: Trực quan, dễ sử dụng, hỗ trợ kiểm tra và xử lý lỗi đầu vào hiệu quả.
+
+- **Kiến thức thực tiễn**: Xây dựng ứng dụng dựa trên .NET Framework một cách chuyên sâu.
+
 
 ## 📜 License
 Dự án này được phát hành dưới giấy phép [MIT License](LICENSE).
