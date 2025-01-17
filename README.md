@@ -106,5 +106,5 @@ Dịch vụ web cung cấp hai phương thức chính:
 Dự án này được phát hành dưới giấy phép [MIT License](LICENSE).
 
 ## 📧 Thông tin liên hệ
-- **Tác giả:** [soa-ueh-thanhlam](https://github.com/thanhlamcode)
+- **Tác giả:** [thanhlamcode](https://github.com/thanhlamcode)
 - **Email:** lamdoan1122334455@gmail.com
